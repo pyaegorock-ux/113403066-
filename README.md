@@ -3,16 +3,6 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Iframe Example</title>
-
-<style>
-iframe{
-    width:500px;
-    height:500px;
-    border:none;
-}
-</style>
-
 </head>
 
 <body>

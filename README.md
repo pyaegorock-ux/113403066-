@@ -1,1 +1,25 @@
 # 113403066-
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Iframe Example</title>
+
+<style>
+iframe{
+    width:500px;
+    height:500px;
+    border:none;
+}
+</style>
+
+</head>
+
+<body>
+
+<h2>Iframe Example</h2>
+
+<iframe src="https://www.w3schools.com"></iframe>
+
+</body>
+</html>
